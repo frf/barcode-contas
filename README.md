@@ -1,1 +1,1 @@
-# barcode-contas
+# barcode-contas - Angular e IONIC
